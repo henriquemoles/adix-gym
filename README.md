@@ -9,7 +9,7 @@ O site foi totalmente repaginado para refletir a energia da marca e a qualidade 
 
 ## 🌐 Acesse o site
 
-👉 [https://adixgym.com.br](https://adixgym.com.br) *(link de exemplo — substitua pelo real quando publicado no Firebase)*
+👉 [https://adix-gym.web.app/](https://adix-gym.web.app/) 
 
 ---
 
