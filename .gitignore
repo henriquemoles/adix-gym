@@ -1,0 +1,72 @@
+# ------------------------------
+# Node / Package Managers
+# ------------------------------
+node_modules/
+.pnpm-store/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# ------------------------------
+# Next.js
+# ------------------------------
+.next/
+out/
+build/
+.next-static/
+next-env.d.ts
+*.tsbuildinfo
+
+# ------------------------------
+# Firebase
+# ------------------------------
+# Firebase local emulators, cache, and service credentials
+.firebase/
+.firebaserc
+firebase-debug.log
+firebase-debug.*.log
+storage-debug.log
+# Don’t upload credentials or private keys
+**/firebase-service-account.json
+**/serviceAccountKey.json
+
+# ------------------------------
+# Environment / Secrets
+# ------------------------------
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+*.pem
+
+# ------------------------------
+# OS / IDE
+# ------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# ------------------------------
+# Test / Coverage
+# ------------------------------
+coverage/
+jest-html-reporters-*.html
+
+# ------------------------------
+# Deployment / Cloud
+# ------------------------------
+.vercel/
+.netlify/
+dist/
+tmp/
+temp/
