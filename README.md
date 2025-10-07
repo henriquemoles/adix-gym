@@ -29,7 +29,7 @@ O site foi totalmente repaginado para refletir a energia da marca e a qualidade 
 ## 🚀 Estrutura do Projeto
 
 ```
-
+```markdown
 adix-gym/
 ├── public/               # Imagens e arquivos estáticos
 ├── src/
